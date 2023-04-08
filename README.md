@@ -22,7 +22,7 @@ Essa API fornece informações sobre jogos, como nome, ano de lançamento e valo
 ```
 | Parâmetro   | Tipo       | Descrição                           |
 | :---------- | :--------- | :---------------------------------- |
-| `Nenhum` | `number` | Null |
+| `Nenhum` | `null` | Null |
 
 | Status  | Resposta                           |
 | :---------- | :---------------------------------- |
