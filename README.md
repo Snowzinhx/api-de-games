@@ -82,7 +82,7 @@ Essa API fornece informações sobre jogos, como nome, ano de lançamento e valo
 
 | Parâmetro   | Tipo       | Descrição                                   |
 | :---------- | :--------- | :------------------------------------------ |
-| `id`      | `number` | **Obrigatório**. ID do jogo que deseja deletar do banco de dados. |
+| `id`      | `null` | **Obrigatório**. ID do jogo que deseja deletar do banco de dados. |
 
 | Status  | Resposta                          |
 | :---------- | :---------------------------------- |
