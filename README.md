@@ -138,7 +138,7 @@ Essa API fornece informações sobre jogos, como nome, ano de lançamento e valo
 ###### Exemplo:
 ```http
   {
-    "name": "John Doe",
+    "name": "JohnDoe",
     "email": "example@example.com",
     "password": "12345678"
   }
